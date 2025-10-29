@@ -1,5 +1,20 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-29T11:19:21.685Z",
-  "categories": []
+  "lastUpdated": "2025-10-29T11:56:44.062Z",
+  "categories": [
+    {
+      "categoryId": "flower",
+      "categoryName": "Flowers 1",
+      "templates": [
+        {
+          "categoryId": "flower",
+          "categoryName": "Flowers 1",
+          "thumbnailId": "flower_1",
+          "thumbnailLink": "https://raw.githubusercontent.com/samterer/NailsTechAI/main/templates/thumbnail_1761739000593.png",
+          "designLink": "https://raw.githubusercontent.com/samterer/NailsTechAI/main/templates/design_1761739002390.png",
+          "status": "active"
+        }
+      ]
+    }
+  ]
 }
