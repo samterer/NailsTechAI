@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-29T12:19:02.616Z",
+  "lastUpdated": "2025-10-29T13:40:52.723Z",
   "categories": [
     {
       "categoryId": "flower",
@@ -28,6 +28,20 @@
           "thumbnailId": "flower_003",
           "thumbnailLink": "https://raw.githubusercontent.com/samterer/NailsTechAI/main/templates/thumbnail_1761740338710.png",
           "designLink": "https://raw.githubusercontent.com/samterer/NailsTechAI/main/templates/design_1761740340857.png",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "categoryId": "frenchtips",
+      "categoryName": "French Tips",
+      "templates": [
+        {
+          "categoryId": "frenchtips",
+          "categoryName": "French Tips",
+          "thumbnailId": "frenchtips_001",
+          "thumbnailLink": "https://raw.githubusercontent.com/samterer/NailsTechAI/main/templates/thumbnail_1761745248265.png",
+          "designLink": "https://raw.githubusercontent.com/samterer/NailsTechAI/main/templates/design_1761745250238.png",
           "status": "active"
         }
       ]
